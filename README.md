@@ -6,7 +6,7 @@ This repository contains the data analysis and SQL queries performed as part of 
 ## Contents  
 - `Products.ipynb` – Analysis of the product dataset, including missing values, brand distribution, and barcode inconsistencies.  
 - `Users_CleanData.ipynb` – Cleaning and analysis of the user dataset, including missing demographics and user-to-transaction mapping issues.  
-- `Transaction.ipynb` – Exploration of transaction data, handling duplicates, and aligning barcodes with product data.  
+- `Transactions.ipynb` – Exploration of transaction data, handling duplicates, and aligning barcodes with product data.  
 - `SQL.ipynb` – SQL queries to answer key business questions regarding user behavior, brand performance, and transaction trends.  
 - `Email_to_Stakeholders.pdf` – An email/message with a summary of key data quality issues, trends, and recommendations.
 - **`Updated_Datasets/`** – Folder containing the cleaned datasets after processing: (Attaching a Google Drive link if the Datasets are inaccessible here.)
@@ -14,7 +14,7 @@ This repository contains the data analysis and SQL queries performed as part of 
   - `USER_CLEANED.csv`  
   - `TRANSACTION_CLEANED.csv`  
   - `PRODUCTS_CLEANED.csv`
-- `SQL_Outputs` – Folder containing the output CSV files for SQL query results
+- `SQL_Outputs` – Folder containing the output CSV files for SQL query results.
 - `SQL_Queries` – Folder containing the SQL queries executed to answer key business questions.  
 
 
