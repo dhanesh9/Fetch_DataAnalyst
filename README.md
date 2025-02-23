@@ -9,8 +9,8 @@ This repository contains the data analysis and SQL queries performed as part of 
 - `Transaction.ipynb` – Exploration of transaction data, handling duplicates, and aligning barcodes with product data.  
 - `SQL.ipynb` – SQL queries to answer key business questions regarding user behavior, brand performance, and transaction trends.  
 - `Email_to_Stakeholders.pdf` – An email/message with a summary of key data quality issues, trends, and recommendations.
-- **`Updated_Datasets/`** – Folder containing the cleaned datasets after processing: (Attaching a Google Drive link if the Datasets are inaccessible here.
-  () 
+- **`Updated_Datasets/`** – Folder containing the cleaned datasets after processing: (Attaching a Google Drive link if the Datasets are inaccessible here.)
+  {https://drive.google.com/drive/folders/1SQFg3zr51bUZrKlM0pnpPokEpj4HhZyV?usp=sharing} 
   - `USER_CLEANED.csv`  
   - `TRANSACTION_CLEANED.csv`  
   - `PRODUCTS_CLEANED.csv`
